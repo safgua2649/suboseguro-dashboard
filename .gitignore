@@ -1,0 +1,19 @@
+# Carpetas que no se deben subir a GitHub
+node_modules/
+build/
+dist/
+out/
+
+# Archivos de desarrollo
+package-lock.json
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# Variables de entorno
+.env
+.env.local
+
+# Sistema
+.DS_Store
+Thumbs.db
